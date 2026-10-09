@@ -805,7 +805,7 @@ Provides required software delay functions.
 
     LPC2148-RTC-Scheduled-Device-Control/
     │
-    ├── docs/
+    ├── source/
     │   ├── output.c
     │   ├── LCD.c
     │   ├── LCD.h
