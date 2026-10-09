@@ -1005,7 +1005,7 @@ The project can be extended with:
 
 ## Hardware Setup
 
-![Hardware Setup](Hardware/Hardware_Setup.jpeg)
+![Hardware setup](Hardware/Hardware_setup.jpeg)
 
 ## LCD Interface
 
