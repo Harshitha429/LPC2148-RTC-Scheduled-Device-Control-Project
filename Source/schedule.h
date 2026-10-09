@@ -7,6 +7,7 @@ typedef signed int     s32;
 
 
 /* Fixed ON/OFF time */
+
 void Schedule_SetTime(u8 on_hour,
                       u8 on_min,
                       u8 off_hour,
